@@ -545,7 +545,8 @@ h3 {
   text-align: left;
 }
 
-.sample-request input {
+.sample-request input,
+.sample-request select {
   width: 100%;
   min-height: 46px;
   padding: 11px 13px;
