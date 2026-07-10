@@ -532,6 +532,10 @@ h3 {
   margin-top: 18px;
 }
 
+.hidden-field {
+  display: none;
+}
+
 .sample-request label {
   display: grid;
   gap: 7px;
